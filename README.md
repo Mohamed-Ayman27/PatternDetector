@@ -1,7 +1,7 @@
-Overlapping Pattern Detector
+<h1><b>Overlapping Pattern Detector</b></h1>
 This project implements an overlapping pattern detector module using Verilog HDL. The module is designed to detect the pattern "11010" in a continuous bit stream, starting from the left. The module is designed to operate in the overlapping style of pattern detectors, which allows it to detect patterns that span across two consecutive bytes. The project also includes a detailed discussion on implementing the module on an FPGA Xilinx Spartan-6.
 
-Table of Contents
+<h1><b>Table of Contents</b></h1>
 Introduction
 Design Overview
 Implementation on FPGA Xilinx Spartan-6
